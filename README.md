@@ -1,1 +1,1 @@
-# creditanalize
+# creditanalysis
